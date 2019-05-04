@@ -1,4 +1,4 @@
-# computationalmaterials
+# An introduction to Computational Material Science using Python
 Introductory Guide to PyMatgen, Fireworks, Atomate
 
 ### Required Packages
